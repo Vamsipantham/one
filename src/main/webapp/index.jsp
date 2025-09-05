@@ -913,7 +913,7 @@
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
             </div>
-            <div class="product-card">https://images.unsplash.com/photos/man-sitting-on-the-ledge-of-a-building-wearing-air-jordan-1-low-top-shoes-NoVnXXmDNi0
+            <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Sneakers" class="product-img">
                 <div class="product-info">
                     <h3>Nike Jeans for Men</h3>
